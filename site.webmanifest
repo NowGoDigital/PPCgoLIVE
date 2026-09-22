@@ -1,0 +1,21 @@
+{
+  "name": "PPC Bersertifikat",
+  "short_name": "PPC",
+  "description": "Jasa Sampling Pupuk & Pestisida Bersertifikat BNSP & KAN",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}
